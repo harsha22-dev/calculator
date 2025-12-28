@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ZMD_8c.html#a9987ceb22ea0d4372b009b13b721c69a" title="init_zmd" alt="" coords="265,50,335,76"/>
+<area shape="rect" id="node16" href="$ZMD_8c.html#ad82eaf842016e8a5dc4cd276286d965b" title="Ein ZMD&#45;Kommando auf die Software&#45;I²C schreiben." alt="" coords="137,75,215,102"/>
+<area shape="rect" id="node5" href="$WEPO41104A00_8c.html#a432fdf03c0d095aa6c0cd947f771a2bd" title="Startroutine zum Verlassen des Standby&#45;Modus." alt="" coords="411,24,459,51"/>
+<area shape="rect" id="node11" href="$ZMD_8c.html#a46ba7eb8be25e82aafb8ba6bef56ec08" title="Führt einen Offsetabgleich auf den ZMDs aus." alt="" coords="384,75,485,102"/>
+<area shape="rect" id="node7" href="$WEPO41104A00_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Hauptroutine." alt="" coords="717,24,768,51"/>
+<area shape="rect" id="node9" href="$WEPO41104A00_8c.html#a36cd53f29e25f87810b0a5156616fb99" title="Interrupt des analog&#45;Komperators, wird ausgeführt, wenn die Radialbeschleunigung über 2g steigt..." alt="" coords="580,24,623,51"/>
+<area shape="rect" id="node13" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="Behandelt empfangene Pakete zur Konfiguration." alt="" coords="534,75,669,102"/>
+</map>

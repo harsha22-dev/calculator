@@ -1,0 +1,12 @@
+<map id="pal_trx_bit_write" name="pal_trx_bit_write">
+<area shape="rect" id="node3" href="$at86_8h.html#a0da266448f852413ba43e88e4ea99a84" title="Apply channel to transceiver. " alt="" coords="429,56,605,83"/>
+<area shape="rect" id="node9" href="$at86_8h.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver. " alt="" coords="171,259,381,285"/>
+<area shape="rect" id="node11" href="$at86_8h.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver. " alt="" coords="468,107,567,133"/>
+<area shape="rect" id="node16" href="$at86_8h.html#a4c8415e4daa3241fe710fed12dcc503d" title="Apply tx power to transceiver. " alt="" coords="191,157,361,184"/>
+<area shape="rect" id="node18" href="$at86_8h.html#a530e39a4d7d19f34689fea5113a88ddf" title="Filter tuning and PLL calibration handling Although receiver and transmitter are very robust against ..." alt="" coords="185,208,367,235"/>
+<area shape="rect" id="node21" href="$at86_8h.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame. " alt="" coords="198,5,354,32"/>
+<area shape="rect" id="node5" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="654,56,789,83"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="837,81,888,108"/>
+<area shape="rect" id="node13" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="690,107,753,133"/>
+<area shape="rect" id="node23" href="$at86_8h.html#a0ee158241f405a92e7fa7b507c707f93" title="Send data request and receive data with ACK and retry. " alt="" coords="451,5,583,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="at86rf231.c" name="at86rf231.c">
+<area shape="rect" id="node3" href="$at86_8h.html" title="This file implements the API for the AT86RF231 radio transceiver. " alt="" coords="566,80,644,107"/>
+<area shape="rect" id="node25" href="$eeprom__abbild_8h.html" title="EEPROM data structure and EEPROM I/O&#45;functions. " alt="" coords="1077,80,1216,107"/>
+<area shape="rect" id="node9" href="$at86rf231_8h.html" title="File contains register and command defines specific for AT86RF231. " alt="" coords="194,155,280,181"/>
+<area shape="rect" id="node11" href="$tal__constants_8h.html" title="This file contains constants used througthout the TAL. " alt="" coords="305,155,415,181"/>
+<area shape="rect" id="node13" href="$ieee__const_8h.html" title="This header holds all IEEE 802.15.4&#45;2006 constants and attribute identifiers. " alt="" coords="440,155,536,181"/>
+<area shape="rect" id="node15" href="$pal__config_8h.html" title="PAL configuration for ATmega1281. " alt="" coords="560,155,651,181"/>
+<area shape="rect" id="node29" href="$SPIKE__config_8h.html" title="SPIKE configuration. " alt="" coords="1219,155,1332,181"/>
+</map>

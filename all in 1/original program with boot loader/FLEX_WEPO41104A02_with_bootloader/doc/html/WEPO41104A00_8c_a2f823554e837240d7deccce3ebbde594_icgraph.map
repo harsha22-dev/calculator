@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8c.html#a9987ceb22ea0d4372b009b13b721c69a" title="ZMDs initialisieren und Startkonfiguration laden." alt="" coords="259,31,330,57"/>
+<area shape="rect" id="node16" href="$WEPO41104A00_8c.html#ad82eaf842016e8a5dc4cd276286d965b" title="Ein ZMD&#45;Kommando auf die Software&#45;I²C schreiben." alt="" coords="131,56,210,83"/>
+<area shape="rect" id="node5" href="$WEPO41104A00_8c.html#a46ba7eb8be25e82aafb8ba6bef56ec08" title="Führt einen Offsetabgleich auf den ZMDs aus." alt="" coords="379,5,480,32"/>
+<area shape="rect" id="node11" href="$WEPO41104A00_8c.html#a432fdf03c0d095aa6c0cd947f771a2bd" title="Startroutine zum Verlassen des Standby&#45;Modus." alt="" coords="405,56,453,83"/>
+<area shape="rect" id="node7" href="$WEPO41104A00_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="Behandelt empfangene Pakete zur Konfiguration." alt="" coords="529,5,663,32"/>
+<area shape="rect" id="node9" href="$WEPO41104A00_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Hauptroutine." alt="" coords="712,31,763,57"/>
+<area shape="rect" id="node13" href="$WEPO41104A00_8c.html#a36cd53f29e25f87810b0a5156616fb99" title="Interrupt des analog&#45;Komperators, wird ausgeführt, wenn die Radialbeschleunigung über 2g steigt..." alt="" coords="575,107,617,133"/>
+</map>

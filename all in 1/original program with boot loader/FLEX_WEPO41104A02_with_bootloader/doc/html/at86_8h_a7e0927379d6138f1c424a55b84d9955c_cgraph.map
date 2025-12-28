@@ -1,0 +1,8 @@
+<map id="at86rf231_tx_with_retry" name="at86rf231_tx_with_retry">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#ab8a9e9b9256831427ca7746ec45e6345" title="Switch transceiver pll on and wait until it is locked. " alt="" coords="211,56,371,83"/>
+<area shape="rect" id="node5" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="421,5,536,32"/>
+<area shape="rect" id="node10" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="419,107,539,133"/>
+<area shape="rect" id="node13" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver " alt="" coords="233,157,349,184"/>
+<area shape="rect" id="node17" href="$at86_8h.html#a89baa48c35c21c98b853f56ad42b9da6" title="write frame to transceiver " alt="" coords="223,208,358,235"/>
+<area shape="rect" id="node7" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="587,56,706,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SX8723c_set_PGA3_offset" name="SX8723c_set_PGA3_offset">
+<area shape="rect" id="node3" href="$group__group__SX8723c__service__sw__twi.html#ga6ba1bdbcd5fac871fea9ac6ae7cbb6c5" title="TWI command to read a byte in a single register of the SX8723c. " alt="" coords="233,5,375,46"/>
+<area shape="rect" id="node5" href="$group__group__SX8723c__service__sw__twi.html#ga97a103cc9aeea7d86299b5c97b90751a" title="TWI command to write a byte in a single register of the SX8723c. " alt="" coords="233,70,375,111"/>
+</map>

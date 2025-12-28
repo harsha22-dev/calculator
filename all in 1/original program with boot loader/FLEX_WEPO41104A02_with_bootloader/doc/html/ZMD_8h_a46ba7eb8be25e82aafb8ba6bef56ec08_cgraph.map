@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8c.html#a8ad273e354207ac32df636c718de5f20" title="Konfiguration in das int. EEPROM schreiben." alt="" coords="155,17,293,44"/>
+<area shape="rect" id="node5" href="$ZMD_8h.html#a9987ceb22ea0d4372b009b13b721c69a" title="init_zmd" alt="" coords="189,68,259,95"/>
+<area shape="rect" id="node18" href="$ZMD_8h.html#a983cc1d71fd60907530c7774e187feb6" title="ZMDs auslesen (Messwerte)" alt="" coords="185,119,263,145"/>
+<area shape="rect" id="node7" href="$sw__twi_8h.html#a9c6f0955e60ea448b9c96115faf3ea00" title="Startbedingung auf der Software&#45;I²C erzeugen." alt="" coords="471,5,550,32"/>
+<area shape="rect" id="node9" href="$sw__twi_8h.html#a2f823554e837240d7deccce3ebbde594" title="Stopbedingung auf der Software&#45;I²C erzeugen." alt="" coords="472,81,549,108"/>
+<area shape="rect" id="node11" href="$sw__twi_8h.html#aed8acdc5def92f356d226f187364519a" title="Ein Byte auf die Software&#45;I²C schreiben." alt="" coords="470,132,551,159"/>
+<area shape="rect" id="node13" href="$ZMD_8h.html#ad82eaf842016e8a5dc4cd276286d965b" title="Ein ZMD&#45;Kommando auf die Software&#45;I²C schreiben." alt="" coords="342,43,421,69"/>
+</map>

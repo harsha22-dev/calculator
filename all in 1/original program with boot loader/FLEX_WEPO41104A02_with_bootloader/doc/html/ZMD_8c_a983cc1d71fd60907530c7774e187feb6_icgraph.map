@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ZMD_8c.html#a46ba7eb8be25e82aafb8ba6bef56ec08" title="Führt einen Offsetabgleich auf den ZMDs aus." alt="" coords="133,5,235,32"/>
+<area shape="rect" id="node9" href="$ZMD_8c.html#ae30ac20e5b713fe712ec38950fe1dfca" title="Liest die ZMDs aus und bringt die Messdaten in die richtige Form für die Weiterverarbeitung." alt="" coords="297,56,404,83"/>
+<area shape="rect" id="node5" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="Behandelt empfangene Pakete zur Konfiguration." alt="" coords="283,5,418,32"/>
+<area shape="rect" id="node7" href="$WEPO41104A00_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Hauptroutine." alt="" coords="467,31,517,57"/>
+</map>

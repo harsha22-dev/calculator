@@ -1,0 +1,10 @@
+<map id="at86.h" name="at86.h">
+<area shape="rect" id="node3" href="$at86rf231_8c.html" title="at86rf231.c" alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node5" href="$pm__config__protocol_8h.html" title="PM configuration protocol. " alt="" coords="167,80,312,107"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8h.html" title="Main header of the program. " alt="" coords="38,155,169,181"/>
+<area shape="rect" id="node14" href="$ZMD_8h.html" title="ZMD.h" alt="" coords="337,80,396,107"/>
+<area shape="rect" id="node18" href="$pal__trx__access_8c.html" title="Transceiver registers &amp; Buffer accessing functions for AVR 8&#45;Bit SPI based MCUs. " alt="" coords="421,80,541,107"/>
+<area shape="rect" id="node11" href="$pm__config__protocol_8c.html" title="PM configuration protocol. " alt="" coords="194,155,339,181"/>
+<area shape="rect" id="node9" href="$WEPO41104A02_8c.html" title="WEPO41104A02.c" alt="" coords="38,229,169,256"/>
+<area shape="rect" id="node16" href="$ZMD_8c.html" title="ZMD.c" alt="" coords="363,155,423,181"/>
+</map>

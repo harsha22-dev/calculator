@@ -1,0 +1,13 @@
+<map id="at86rf231_init" name="at86rf231_init">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver. " alt="" coords="152,63,363,89"/>
+<area shape="rect" id="node5" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="644,316,759,343"/>
+<area shape="rect" id="node7" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="817,265,935,292"/>
+<area shape="rect" id="node9" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver " alt="" coords="441,12,557,39"/>
+<area shape="rect" id="node12" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="641,113,761,140"/>
+<area shape="rect" id="node17" href="$at86_8h.html#a4ddebb432b1aef8f295d63c239e8c607" title="Enables the transceiver interrupt. " alt="" coords="194,265,321,292"/>
+<area shape="rect" id="node19" href="$at86_8h.html#aceb006f750bff9f026625d1c9ba2085e" title="init external interrupt " alt="" coords="204,316,311,343"/>
+<area shape="rect" id="node23" href="$at86_8h.html#a77bbb8f8a76c36305d693461ad862b46" title="init spi interace " alt="" coords="199,367,316,393"/>
+<area shape="rect" id="node25" href="$at86rf231_8c.html#a1c1fedf9aed4fb4c3de561cfe89152d1" title="Transceiver interrupt handler. " alt="" coords="193,215,321,241"/>
+<area shape="rect" id="node30" href="$at86rf231_8c.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt. " alt="" coords="411,265,586,292"/>
+<area shape="rect" id="node33" href="$at86_8h.html#a567fce74d2ddb73921f679c1a907cd2f" title="Upload frame from transceiver. " alt="" coords="635,215,767,241"/>
+</map>

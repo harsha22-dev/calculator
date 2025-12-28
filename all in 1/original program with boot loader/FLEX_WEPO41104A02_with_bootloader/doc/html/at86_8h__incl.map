@@ -1,0 +1,6 @@
+<map id="at86.h" name="at86.h">
+<area shape="rect" id="node7" href="$at86rf231_8h.html" title="File contains register and command defines specific for AT86RF231. " alt="" coords="194,80,280,107"/>
+<area shape="rect" id="node9" href="$tal__constants_8h.html" title="This file contains constants used througthout the TAL. " alt="" coords="305,80,415,107"/>
+<area shape="rect" id="node11" href="$ieee__const_8h.html" title="This header holds all IEEE 802.15.4&#45;2006 constants and attribute identifiers. " alt="" coords="440,80,536,107"/>
+<area shape="rect" id="node13" href="$pal__config_8h.html" title="PAL configuration for ATmega1281. " alt="" coords="560,80,651,107"/>
+</map>

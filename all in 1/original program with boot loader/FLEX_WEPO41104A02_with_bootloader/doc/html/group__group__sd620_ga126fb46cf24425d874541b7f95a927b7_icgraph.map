@@ -1,0 +1,5 @@
+<map id="ds620_twi_init" name="ds620_twi_init">
+<area shape="rect" id="node3" href="$group__group__sd620.html#gaa8ab08bf72368a272b8e137b37292ad9" title="Initializes the DS620. " alt="" coords="158,5,239,32"/>
+<area shape="rect" id="node5" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="289,5,351,32"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="400,5,451,32"/>
+</map>

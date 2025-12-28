@@ -1,0 +1,5 @@
+<map id="ds620_twi_read" name="ds620_twi_read">
+<area shape="rect" id="node3" href="$group__group__sd620.html#ga3f2e6a267be5098a09273824a5887d74" title="Get the temperature value of the sensor. " alt="" coords="166,5,325,32"/>
+<area shape="rect" id="node5" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="557,5,608,32"/>
+<area shape="rect" id="node7" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="374,31,509,57"/>
+</map>

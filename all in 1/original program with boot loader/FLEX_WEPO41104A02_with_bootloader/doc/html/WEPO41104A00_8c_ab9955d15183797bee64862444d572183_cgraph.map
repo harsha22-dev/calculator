@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#a9e5cb2ff642e1ad6dcb9c02bafd10229" title="Send data without ACK and Retry." alt="" coords="192,31,285,57"/>
+<area shape="rect" id="node5" href="$at86_8h.html#a89baa48c35c21c98b853f56ad42b9da6" title="write frame to transceiver" alt="" coords="334,5,469,32"/>
+<area shape="rect" id="node7" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver" alt="" coords="341,56,461,83"/>
+</map>

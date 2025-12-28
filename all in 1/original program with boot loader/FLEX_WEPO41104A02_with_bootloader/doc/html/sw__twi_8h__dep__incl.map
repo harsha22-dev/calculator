@@ -1,0 +1,12 @@
+<map id="sw_twi.h" name="sw_twi.h">
+<area shape="rect" id="node3" href="$SX8723c_8h.html" title="Semtech SX8723c Service. " alt="" coords="229,80,312,107"/>
+<area shape="rect" id="node18" href="$ZMD_8h.html" title="ZMD.h" alt="" coords="406,80,465,107"/>
+<area shape="rect" id="node22" href="$sw__twi_8c.html" title="Software TWI for parallel read/write to SX8723c devices. " alt="" coords="491,80,563,107"/>
+<area shape="rect" id="node5" href="$eeprom__abbild_8c.html" title="EEPROM data structure and EEPROM I/O&#45;functions. " alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node7" href="$pm__config__protocol_8h.html" title="PM configuration protocol. " alt="" coords="198,155,343,181"/>
+<area shape="rect" id="node9" href="$WEPO41104A02_8h.html" title="Main header of the program. " alt="" coords="94,229,225,256"/>
+<area shape="rect" id="node16" href="$SX8723c_8c.html" title="Semtech SX8723c Service. " alt="" coords="367,155,451,181"/>
+<area shape="rect" id="node13" href="$pm__config__protocol_8c.html" title="PM configuration protocol. " alt="" coords="250,229,395,256"/>
+<area shape="rect" id="node11" href="$WEPO41104A02_8c.html" title="WEPO41104A02.c" alt="" coords="94,304,225,331"/>
+<area shape="rect" id="node20" href="$ZMD_8c.html" title="ZMD.c" alt="" coords="475,155,535,181"/>
+</map>

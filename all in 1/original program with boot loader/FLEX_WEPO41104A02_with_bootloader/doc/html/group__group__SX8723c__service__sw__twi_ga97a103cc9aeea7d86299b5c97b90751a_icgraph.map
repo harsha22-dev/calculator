@@ -1,0 +1,11 @@
+<map id="sw_TWI_write_single_register" name="sw_TWI_write_single_register">
+<area shape="rect" id="node3" href="$group__group__SX8723c__service.html#ga9a15a2e146701d2ee73e202f35bfdcf5" title="This function compensate an offset automatically. " alt="" coords="425,81,567,108"/>
+<area shape="rect" id="node9" href="$group__group__SX8723c__service.html#ga528d11c1bcefe1ac4489e8dae24a4711" title="This function initialize the SX8723c. " alt="" coords="447,5,545,32"/>
+<area shape="rect" id="node14" href="$group__group__SX8723c__service.html#ga0a84d3b06d6266f36c42a8733fb06db8" title="This function starts an conversation on the SX8723c. " alt="" coords="207,103,366,129"/>
+<area shape="rect" id="node18" href="$group__group__SX8723c__service.html#ga2b7e9bef357b7f9619b1f77ce532ea0b" title="This function sets an new PGA3 offset. " alt="" coords="197,153,376,180"/>
+<area shape="rect" id="node20" href="$group__group__SX8723c__service.html#ga0d15afac6ea5710926527bcfd9cfb4c8" title="This function sets the SX8723c in sleep mode. " alt="" coords="441,200,551,227"/>
+<area shape="rect" id="node23" href="$group__group__SX8723c__service.html#ga6e062d659b6b58d80823c2b664ec17f0" title="This function sets the SX8723c in normal mode (back from sleep mode). " alt="" coords="631,252,737,279"/>
+<area shape="rect" id="node5" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="617,81,751,108"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="800,132,851,159"/>
+<area shape="rect" id="node11" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="653,19,715,45"/>
+</map>

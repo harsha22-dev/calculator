@@ -1,0 +1,24 @@
+<map id="avr_init" name="avr_init">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver. " alt="" coords="137,201,236,228"/>
+<area shape="rect" id="node39" href="$group__group__sd620.html#gaa8ab08bf72368a272b8e137b37292ad9" title="Initializes the DS620. " alt="" coords="146,661,227,688"/>
+<area shape="rect" id="node49" href="$eeprom__abbild_8c.html#a741f4f6bf07cdfdbf182dd34028fdd12" title="Load configuration from internal EEPROM and save it in SRAM. " alt="" coords="117,712,256,738"/>
+<area shape="rect" id="node51" href="$WEPO41104A02_8h.html#ab15cf82f0329bc4d7262c03559eaaa8e" title="Initialized the ADC. " alt="" coords="153,762,220,789"/>
+<area shape="rect" id="node53" href="$group__group__SX8723c__service.html#ga528d11c1bcefe1ac4489e8dae24a4711" title="This function initialize the SX8723c. " alt="" coords="138,813,235,840"/>
+<area shape="rect" id="node57" href="$WEPO41104A02_8h.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Initialized the timer/counter 1. " alt="" coords="149,864,224,890"/>
+<area shape="rect" id="node5" href="$at86rf231_8c.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver. " alt="" coords="304,277,515,304"/>
+<area shape="rect" id="node7" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="796,505,911,532"/>
+<area shape="rect" id="node9" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="969,353,1087,380"/>
+<area shape="rect" id="node11" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver " alt="" coords="593,150,709,177"/>
+<area shape="rect" id="node14" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="793,252,913,278"/>
+<area shape="rect" id="node19" href="$at86_8h.html#a4ddebb432b1aef8f295d63c239e8c607" title="Enables the transceiver interrupt. " alt="" coords="346,74,473,101"/>
+<area shape="rect" id="node21" href="$at86_8h.html#aceb006f750bff9f026625d1c9ba2085e" title="init external interrupt " alt="" coords="356,125,463,152"/>
+<area shape="rect" id="node25" href="$at86_8h.html#a77bbb8f8a76c36305d693461ad862b46" title="init spi interace " alt="" coords="351,176,468,202"/>
+<area shape="rect" id="node27" href="$at86rf231_8c.html#a1c1fedf9aed4fb4c3de561cfe89152d1" title="Transceiver interrupt handler. " alt="" coords="345,353,473,380"/>
+<area shape="rect" id="node29" href="$at86rf231_8c.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt. " alt="" coords="563,404,738,430"/>
+<area shape="rect" id="node32" href="$at86_8h.html#a567fce74d2ddb73921f679c1a907cd2f" title="Upload frame from transceiver. " alt="" coords="787,404,919,430"/>
+<area shape="rect" id="node41" href="$group__group__sd620.html#ga126fb46cf24425d874541b7f95a927b7" title="Initializes the TWI of the temperature sensor. " alt="" coords="357,708,461,734"/>
+<area shape="rect" id="node43" href="$group__group__sd620.html#gaff3cc7b39da66e7aba8c3027edf2f6f0" title="Send an TWI Start condition. " alt="" coords="353,758,466,785"/>
+<area shape="rect" id="node45" href="$group__group__sd620.html#gaeb28edfed306ba8eceff10e8636852f0" title="Send one byte. " alt="" coords="352,606,467,633"/>
+<area shape="rect" id="node47" href="$group__group__sd620.html#ga7b0b36fec2acaa9f4592b3390c1f6976" title="Send a stop condition. " alt="" coords="353,657,465,684"/>
+<area shape="rect" id="node55" href="$group__group__SX8723c__service__sw__twi.html#ga97a103cc9aeea7d86299b5c97b90751a" title="TWI command to write a byte in a single register of the SX8723c. " alt="" coords="338,810,481,851"/>
+</map>

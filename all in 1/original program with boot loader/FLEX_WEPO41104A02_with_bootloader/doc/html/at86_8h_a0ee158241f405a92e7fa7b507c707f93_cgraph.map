@@ -1,0 +1,10 @@
+<map id="at86rf231_req_data" name="at86rf231_req_data">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#a70a4bd7b72126a48c196271354e6fff3" title="Set Transceiver State = RX_AACK_ON send ACK&#45;Frame automatically if requested. " alt="" coords="187,208,370,235"/>
+<area shape="rect" id="node15" href="$at86rf231_8c.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame. " alt="" coords="201,132,357,159"/>
+<area shape="rect" id="node5" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="627,123,747,149"/>
+<area shape="rect" id="node7" href="$at86rf231_8c.html#ab8a9e9b9256831427ca7746ec45e6345" title="Switch transceiver pll on and wait until it is locked. " alt="" coords="419,259,579,285"/>
+<area shape="rect" id="node9" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="629,199,744,225"/>
+<area shape="rect" id="node11" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="795,199,914,225"/>
+<area shape="rect" id="node17" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver " alt="" coords="441,56,557,83"/>
+<area shape="rect" id="node24" href="$at86_8h.html#a89baa48c35c21c98b853f56ad42b9da6" title="write frame to transceiver " alt="" coords="431,5,566,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Grundlegende initialisierungen des Controlers und der Peripherie." alt="" coords="121,5,183,32"/>
+<area shape="rect" id="node7" href="$WEPO41104A00_8c.html#aedc96a40e844bc2efc8bbef1b0782702" title="Startroutine zum Verlassen des Standby&#45;Modus." alt="" coords="128,56,176,83"/>
+<area shape="rect" id="node5" href="$WEPO41104A00_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Hauptroutine." alt="" coords="232,5,283,32"/>
+<area shape="rect" id="node9" href="$WEPO41104A00_8c.html#a36cd53f29e25f87810b0a5156616fb99" title="Interrupt des analog&#45;Komperators, wird ausgeführt, wenn die Radialbeschleunigung über 2g steigt..." alt="" coords="236,56,279,83"/>
+</map>

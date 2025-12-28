@@ -1,0 +1,9 @@
+<map id="start" name="start">
+<area shape="rect" id="node3" href="$ds620_8c.html#aa8ab08bf72368a272b8e137b37292ad9" title="Initialisiert den DS620. " alt="" coords="114,107,195,133"/>
+<area shape="rect" id="node13" href="$group__group__SX8723c__service.html#ga6e062d659b6b58d80823c2b664ec17f0" title="SX8723c_start" alt="" coords="101,187,208,213"/>
+<area shape="rect" id="node5" href="$ds620_8c.html#a126fb46cf24425d874541b7f95a927b7" title="Initializes the TWI of the temperature sensor. " alt="" coords="276,5,380,32"/>
+<area shape="rect" id="node7" href="$ds620_8c.html#aeb28edfed306ba8eceff10e8636852f0" title="sendet ein Byte über die TWI " alt="" coords="271,56,385,83"/>
+<area shape="rect" id="node9" href="$ds620_8c.html#aff3cc7b39da66e7aba8c3027edf2f6f0" title="Erzeugt die I²C&#45;Startbedingung und sendet die Chipadresse. " alt="" coords="271,107,385,133"/>
+<area shape="rect" id="node11" href="$ds620_8c.html#a7b0b36fec2acaa9f4592b3390c1f6976" title="Erzeugt eine Stop&#45;Bedingung auf der TWI. " alt="" coords="272,157,384,184"/>
+<area shape="rect" id="node15" href="$sw__twi_8h.html#a97a103cc9aeea7d86299b5c97b90751a" title="Brief description of this function. " alt="" coords="257,209,399,250"/>
+</map>

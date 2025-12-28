@@ -1,0 +1,6 @@
+<map id="SX8723c_auto_offset" name="SX8723c_auto_offset">
+<area shape="rect" id="node3" href="$group__group__SX8723c__service__sw__twi.html#ga97a103cc9aeea7d86299b5c97b90751a" title="TWI command to write a byte in a single register of the SX8723c. " alt="" coords="431,5,574,46"/>
+<area shape="rect" id="node5" href="$group__group__SX8723c__service.html#ga3e3069b7bc89d4641dc095f22e24d136" title="This function returns the actually measurement value. " alt="" coords="210,92,345,119"/>
+<area shape="rect" id="node9" href="$group__group__SX8723c__service.html#ga0a84d3b06d6266f36c42a8733fb06db8" title="This function starts an conversation on the SX8723c. " alt="" coords="198,41,357,68"/>
+<area shape="rect" id="node7" href="$group__group__SX8723c__service__sw__twi.html#gafe1b60a74e56c732d4a85b536811b3d1" title="TWI command to readout the 16 bit data value of the SX8723c. " alt="" coords="406,92,599,119"/>
+</map>

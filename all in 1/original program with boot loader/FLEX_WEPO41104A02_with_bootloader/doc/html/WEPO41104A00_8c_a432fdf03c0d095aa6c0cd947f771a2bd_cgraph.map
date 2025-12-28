@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8h.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Grundlegende initialisierungen des Controlers und der Peripherie." alt="" coords="111,371,174,398"/>
+<area shape="rect" id="node9" href="$WEPO41104A00_8h.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Initialisiert den Timer1 auf Interrupt im Intervall der Samplerate." alt="" coords="264,447,339,474"/>
+<area shape="rect" id="node47" href="$ds620_8c.html#aa8ab08bf72368a272b8e137b37292ad9" title="Initialisiert den DS620." alt="" coords="102,245,183,271"/>
+<area shape="rect" id="node56" href="$WEPO41104A00_8h.html#ab15cf82f0329bc4d7262c03559eaaa8e" title="init_adc" alt="" coords="109,473,176,499"/>
+<area shape="rect" id="node58" href="$ZMD_8h.html#a9987ceb22ea0d4372b009b13b721c69a" title="init_zmd" alt="" coords="107,523,178,550"/>
+<area shape="rect" id="node5" href="$eeprom__abbild_8c.html#a97479b3232620db9250a83a5f97059b8" title="Load configuration from internal EEPROM and save it in flash." alt="" coords="232,397,371,423"/>
+<area shape="rect" id="node7" href="$ds620_8c.html#a126fb46cf24425d874541b7f95a927b7" title="Initialisiert die TWI für den Temperatursensor." alt="" coords="249,295,353,322"/>
+<area shape="rect" id="node11" href="$at86rf231_8c.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver." alt="" coords="252,346,351,373"/>
+<area shape="rect" id="node13" href="$at86rf231_8c.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver." alt="" coords="419,169,629,195"/>
+<area shape="rect" id="node15" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver" alt="" coords="911,473,1025,499"/>
+<area shape="rect" id="node17" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver" alt="" coords="1083,321,1202,347"/>
+<area shape="rect" id="node19" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver" alt="" coords="707,118,823,145"/>
+<area shape="rect" id="node22" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver" alt="" coords="908,219,1028,246"/>
+<area shape="rect" id="node27" href="$at86_8h.html#a4ddebb432b1aef8f295d63c239e8c607" title="Enables the transceiver interrupt." alt="" coords="461,510,587,537"/>
+<area shape="rect" id="node29" href="$at86_8h.html#aceb006f750bff9f026625d1c9ba2085e" title="init external interrupt" alt="" coords="471,561,577,587"/>
+<area shape="rect" id="node33" href="$at86_8h.html#a77bbb8f8a76c36305d693461ad862b46" title="init spi interace" alt="" coords="465,611,583,638"/>
+<area shape="rect" id="node35" href="$at86rf231_8c.html#a1c1fedf9aed4fb4c3de561cfe89152d1" title="Transceiver interrupt handler." alt="" coords="460,346,588,373"/>
+<area shape="rect" id="node37" href="$at86rf231_8c.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt." alt="" coords="678,371,853,398"/>
+<area shape="rect" id="node40" href="$at86_8h.html#a567fce74d2ddb73921f679c1a907cd2f" title="Upload frame from transceiver." alt="" coords="902,422,1034,449"/>
+<area shape="rect" id="node50" href="$ds620_8c.html#aeb28edfed306ba8eceff10e8636852f0" title="sendet ein Byte über die TWI" alt="" coords="244,143,359,170"/>
+<area shape="rect" id="node52" href="$ds620_8c.html#aff3cc7b39da66e7aba8c3027edf2f6f0" title="Erzeugt die I²C&#45;Startbedingung und sendet die Chipadresse." alt="" coords="245,194,358,221"/>
+<area shape="rect" id="node54" href="$ds620_8c.html#a7b0b36fec2acaa9f4592b3390c1f6976" title="Erzeugt eine Stop&#45;Bedingung auf der TWI." alt="" coords="245,245,357,271"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8c.html#a126fb46cf24425d874541b7f95a927b7" title="Initialisiert die TWI für den Temperatursensor." alt="" coords="141,5,245,32"/>
+<area shape="rect" id="node5" href="$WEPO41104A00_8c.html#aeb28edfed306ba8eceff10e8636852f0" title="sendet ein Byte über die TWI" alt="" coords="136,56,251,83"/>
+<area shape="rect" id="node7" href="$WEPO41104A00_8c.html#aff3cc7b39da66e7aba8c3027edf2f6f0" title="Erzeugt die I²C&#45;Startbedingung und sendet die Chipadresse." alt="" coords="137,107,250,133"/>
+<area shape="rect" id="node9" href="$WEPO41104A00_8c.html#a7b0b36fec2acaa9f4592b3390c1f6976" title="Erzeugt eine Stop&#45;Bedingung auf der TWI." alt="" coords="137,157,249,184"/>
+</map>

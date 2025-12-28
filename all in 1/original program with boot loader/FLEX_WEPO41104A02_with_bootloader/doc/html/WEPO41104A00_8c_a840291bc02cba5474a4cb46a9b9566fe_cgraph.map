@@ -1,0 +1,45 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8h.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Grundlegende initialisierungen des Controlers und der Peripherie." alt="" coords="142,1116,205,1143"/>
+<area shape="rect" id="node53" href="$ds620_8c.html#a3f2e6a267be5098a09273824a5887d74" title="liest einen Temperaturwert vom DS620" alt="" coords="291,1319,450,1345"/>
+<area shape="rect" id="node63" href="$pm__config__protocol_8h.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="Behandelt empfangene Pakete zur Konfiguration." alt="" coords="106,660,241,687"/>
+<area shape="rect" id="node100" href="$pm__config__protocol_8h.html#a8ea54d2c5521603b34fe4203c3b399f0" title="set_sleep" alt="" coords="331,964,410,991"/>
+<area shape="rect" id="node105" href="$group__group__SX8723c__service.html#ga0a84d3b06d6266f36c42a8733fb06db8" title="SX8723c_send_request" alt="" coords="525,1116,683,1143"/>
+<area shape="rect" id="node108" href="$group__group__SX8723c__service.html#ga3e3069b7bc89d4641dc095f22e24d136" title="SX8723c_get_value" alt="" coords="537,1268,671,1295"/>
+<area shape="rect" id="node113" href="$WEPO41104A00_8c.html#ab9955d15183797bee64862444d572183" title="send_all_data_rf231" alt="" coords="105,331,242,357"/>
+<area shape="rect" id="node120" href="$WEPO41104A00_8h.html#aedc96a40e844bc2efc8bbef1b0782702" title="Startroutine zum Verlassen des Standby&#45;Modus." alt="" coords="149,1319,197,1345"/>
+<area shape="rect" id="node5" href="$eeprom__abbild_8c.html#a741f4f6bf07cdfdbf182dd34028fdd12" title="Load configuration from internal EEPROM and save it in SRAM." alt="" coords="301,1116,440,1143"/>
+<area shape="rect" id="node7" href="$ds620_8c.html#a126fb46cf24425d874541b7f95a927b7" title="Initialisiert die TWI für den Temperatursensor." alt="" coords="552,1319,656,1345"/>
+<area shape="rect" id="node9" href="$group__group__SX8723c__service.html#ga528d11c1bcefe1ac4489e8dae24a4711" title="SX8723c_init" alt="" coords="322,1167,419,1193"/>
+<area shape="rect" id="node13" href="$WEPO41104A00_8h.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Initialisiert den Timer1 auf Interrupt im Intervall der Samplerate." alt="" coords="333,1015,408,1041"/>
+<area shape="rect" id="node15" href="$WEPO41104A00_8h.html#ab15cf82f0329bc4d7262c03559eaaa8e" title="init_adc" alt="" coords="337,1369,404,1396"/>
+<area shape="rect" id="node17" href="$at86rf231_8c.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver." alt="" coords="321,837,420,864"/>
+<area shape="rect" id="node11" href="$sw__twi_8h.html#a97a103cc9aeea7d86299b5c97b90751a" title="Brief description of this function." alt="" coords="758,1155,951,1181"/>
+<area shape="rect" id="node19" href="$at86rf231_8c.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver." alt="" coords="499,609,709,636"/>
+<area shape="rect" id="node21" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver" alt="" coords="1009,736,1124,763"/>
+<area shape="rect" id="node23" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver" alt="" coords="1182,832,1301,859"/>
+<area shape="rect" id="node25" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver" alt="" coords="797,457,913,484"/>
+<area shape="rect" id="node28" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver" alt="" coords="1007,369,1127,396"/>
+<area shape="rect" id="node33" href="$at86_8h.html#a4ddebb432b1aef8f295d63c239e8c607" title="Enables the transceiver interrupt." alt="" coords="541,863,667,889"/>
+<area shape="rect" id="node35" href="$at86_8h.html#aceb006f750bff9f026625d1c9ba2085e" title="init external interrupt" alt="" coords="551,913,657,940"/>
+<area shape="rect" id="node39" href="$at86_8h.html#a77bbb8f8a76c36305d693461ad862b46" title="init spi interace" alt="" coords="545,964,663,991"/>
+<area shape="rect" id="node41" href="$at86rf231_8c.html#a1c1fedf9aed4fb4c3de561cfe89152d1" title="Transceiver interrupt handler." alt="" coords="540,1015,668,1041"/>
+<area shape="rect" id="node43" href="$at86rf231_8c.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt." alt="" coords="767,1015,942,1041"/>
+<area shape="rect" id="node46" href="$at86_8h.html#a567fce74d2ddb73921f679c1a907cd2f" title="Upload frame from transceiver." alt="" coords="1001,977,1133,1004"/>
+<area shape="rect" id="node55" href="$ds620_8c.html#a5ee725e7e6d57c145a1d11e69380ef20" title="liest ein Byte von der TWI" alt="" coords="548,1369,660,1396"/>
+<area shape="rect" id="node57" href="$ds620_8c.html#aeb28edfed306ba8eceff10e8636852f0" title="sendet ein Byte über die TWI" alt="" coords="547,1420,661,1447"/>
+<area shape="rect" id="node59" href="$ds620_8c.html#aff3cc7b39da66e7aba8c3027edf2f6f0" title="Erzeugt die I²C&#45;Startbedingung und sendet die Chipadresse." alt="" coords="547,1471,661,1497"/>
+<area shape="rect" id="node61" href="$ds620_8c.html#a7b0b36fec2acaa9f4592b3390c1f6976" title="Erzeugt eine Stop&#45;Bedingung auf der TWI." alt="" coords="548,1521,660,1548"/>
+<area shape="rect" id="node65" href="$at86rf231_8c.html#a0da266448f852413ba43e88e4ea99a84" title="Apply channel to transceiver." alt="" coords="516,457,692,484"/>
+<area shape="rect" id="node71" href="$at86rf231_8c.html#a4c8415e4daa3241fe710fed12dcc503d" title="Apply tx power to transceiver." alt="" coords="519,508,689,535"/>
+<area shape="rect" id="node76" href="$at86rf231_8c.html#a0ee158241f405a92e7fa7b507c707f93" title="Send data request and receive data with ACK and retry." alt="" coords="305,280,437,307"/>
+<area shape="rect" id="node80" href="$at86rf231_8c.html#ab8a9e9b9256831427ca7746ec45e6345" title="Switch transceiver pll on and wait until it is locked." alt="" coords="775,204,935,231"/>
+<area shape="rect" id="node96" href="$eeprom__abbild_8c.html#a58027566fc3bbb855ac7f4730c3c542a" title="Laod configuration from internal SRAM and write it to EEPROM." alt="" coords="301,711,440,737"/>
+<area shape="rect" id="node102" href="$group__group__SX8723c__service.html#gab11943a993743ad594e4e4d622d6a94a" title="This function compensate an offset automatically." alt="" coords="299,913,442,940"/>
+<area shape="rect" id="node78" href="$at86rf231_8c.html#a70a4bd7b72126a48c196271354e6fff3" title="Set Transceiver State = RX_AACK_ON send ACK&#45;Frame automatically if requested." alt="" coords="513,229,695,256"/>
+<area shape="rect" id="node86" href="$at86rf231_8c.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame." alt="" coords="526,280,682,307"/>
+<area shape="rect" id="node91" href="$at86_8h.html#a89baa48c35c21c98b853f56ad42b9da6" title="write frame to transceiver" alt="" coords="787,52,922,79"/>
+<area shape="rect" id="node110" href="$sw__twi_8h.html#afe1b60a74e56c732d4a85b536811b3d1" title="sw_TWI_read_value_registers" alt="" coords="758,1268,951,1295"/>
+<area shape="rect" id="node115" href="$at86rf231_8c.html#a9e5cb2ff642e1ad6dcb9c02bafd10229" title="Send data without ACK and Retry." alt="" coords="557,52,651,79"/>
+<area shape="rect" id="node123" href="$ds620_8c.html#aa8ab08bf72368a272b8e137b37292ad9" title="Initialisiert den DS620." alt="" coords="330,1471,411,1497"/>
+<area shape="rect" id="node129" href="$group__group__SX8723c__service.html#ga6e062d659b6b58d80823c2b664ec17f0" title="SX8723c_start" alt="" coords="317,1268,424,1295"/>
+</map>

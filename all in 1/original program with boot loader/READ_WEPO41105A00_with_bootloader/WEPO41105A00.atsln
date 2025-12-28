@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "WEPO41105A00", "WEPO41105A00.cproj", "{6902AC0C-75E7-4A54-B92F-6CB72AA7B262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6902AC0C-75E7-4A54-B92F-6CB72AA7B262}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6902AC0C-75E7-4A54-B92F-6CB72AA7B262}.Debug|AVR.Build.0 = Debug|AVR
+		{6902AC0C-75E7-4A54-B92F-6CB72AA7B262}.Release|AVR.ActiveCfg = Release|AVR
+		{6902AC0C-75E7-4A54-B92F-6CB72AA7B262}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

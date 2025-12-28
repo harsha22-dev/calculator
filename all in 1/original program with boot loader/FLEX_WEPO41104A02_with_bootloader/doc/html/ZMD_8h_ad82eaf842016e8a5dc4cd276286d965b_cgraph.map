@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sw__twi_8h.html#a9c6f0955e60ea448b9c96115faf3ea00" title="Startbedingung auf der Software&#45;I²C erzeugen." alt="" coords="135,5,214,32"/>
+<area shape="rect" id="node5" href="$sw__twi_8h.html#a2f823554e837240d7deccce3ebbde594" title="Stopbedingung auf der Software&#45;I²C erzeugen." alt="" coords="136,56,213,83"/>
+<area shape="rect" id="node7" href="$sw__twi_8h.html#aed8acdc5def92f356d226f187364519a" title="Ein Byte auf die Software&#45;I²C schreiben." alt="" coords="134,107,215,133"/>
+</map>

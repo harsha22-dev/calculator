@@ -1,0 +1,4 @@
+<map id="pal_trx_bit_write" name="pal_trx_bit_write">
+<area shape="rect" id="node3" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="171,5,290,32"/>
+<area shape="rect" id="node5" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="171,56,291,83"/>
+</map>

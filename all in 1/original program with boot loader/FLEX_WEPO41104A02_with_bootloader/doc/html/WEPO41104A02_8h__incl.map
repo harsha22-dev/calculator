@@ -1,0 +1,16 @@
+<map id="WEPO41104A02.h" name="WEPO41104A02.h">
+<area shape="rect" id="node17" href="$eeprom__abbild_8h.html" title="EEPROM data structure and EEPROM I/O&#45;functions. " alt="" coords="184,229,301,256"/>
+<area shape="rect" id="node21" href="$SPIKE__config_8h.html" title="SPIKE configuration. " alt="" coords="94,304,207,331"/>
+<area shape="rect" id="node23" href="$SX8723c_8h.html" title="Semtech SX8723c Service. " alt="" coords="541,155,624,181"/>
+<area shape="rect" id="node34" href="$ds620_8h.html" title="DS620 Functions. " alt="" coords="1611,155,1679,181"/>
+<area shape="rect" id="node37" href="$at86_8h.html" title="This file implements the API for the AT86RF231 radio transceiver. " alt="" coords="949,155,1008,181"/>
+<area shape="rect" id="node56" href="$pm__config__protocol_8h.html" title="PM configuration protocol. " alt="" coords="1135,80,1280,107"/>
+<area shape="rect" id="node68" href="$conf__LED_8h.html" title="LED configuration. " alt="" coords="1446,155,1535,181"/>
+<area shape="rect" id="node71" href="$fuses_8h.html" title="fuses.h" alt="" coords="5,304,69,331"/>
+<area shape="rect" id="node27" href="$sw__twi_8h.html" title="Software TWI for parallel read/write to SX8723c devices. " alt="" coords="480,229,552,256"/>
+<area shape="rect" id="node29" href="$conf__sw__twi_8h.html" title="Software TWI for parallel read/write to SX8723c devices. " alt="" coords="1382,304,1484,331"/>
+<area shape="rect" id="node43" href="$at86rf231_8h.html" title="File contains register and command defines specific for AT86RF231. " alt="" coords="1347,229,1433,256"/>
+<area shape="rect" id="node45" href="$tal__constants_8h.html" title="This file contains constants used througthout the TAL. " alt="" coords="1041,229,1151,256"/>
+<area shape="rect" id="node47" href="$ieee__const_8h.html" title="This header holds all IEEE 802.15.4&#45;2006 constants and attribute identifiers. " alt="" coords="1176,229,1272,256"/>
+<area shape="rect" id="node49" href="$pal__config_8h.html" title="PAL configuration for ATmega1281. " alt="" coords="736,229,827,256"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="WEPO41104A02.c" name="WEPO41104A02.c">
+<area shape="rect" id="node3" href="$WEPO41104A02_8h.html" title="Main header of the program. " alt="" coords="902,80,1055,107"/>
+<area shape="rect" id="node19" href="$eeprom__abbild_8h.html" title="EEPROM data structure and EEPROM I/O&#45;functions. " alt="" coords="184,304,301,331"/>
+<area shape="rect" id="node23" href="$SPIKE__config_8h.html" title="SPIKE configuration. " alt="" coords="94,379,207,405"/>
+<area shape="rect" id="node25" href="$SX8723c_8h.html" title="Semtech SX8723c Service. " alt="" coords="541,229,624,256"/>
+<area shape="rect" id="node36" href="$ds620_8h.html" title="DS620 Functions. " alt="" coords="1611,229,1679,256"/>
+<area shape="rect" id="node39" href="$at86_8h.html" title="This file implements the API for the AT86RF231 radio transceiver. " alt="" coords="949,229,1008,256"/>
+<area shape="rect" id="node58" href="$pm__config__protocol_8h.html" title="PM configuration protocol. " alt="" coords="1135,155,1280,181"/>
+<area shape="rect" id="node70" href="$conf__LED_8h.html" title="LED configuration. " alt="" coords="1446,229,1535,256"/>
+<area shape="rect" id="node73" href="$fuses_8h.html" title="fuses.h" alt="" coords="5,379,69,405"/>
+<area shape="rect" id="node29" href="$sw__twi_8h.html" title="Software TWI for parallel read/write to SX8723c devices. " alt="" coords="480,304,552,331"/>
+<area shape="rect" id="node31" href="$conf__sw__twi_8h.html" title="Software TWI for parallel read/write to SX8723c devices. " alt="" coords="1382,379,1484,405"/>
+<area shape="rect" id="node45" href="$at86rf231_8h.html" title="File contains register and command defines specific for AT86RF231. " alt="" coords="1347,304,1433,331"/>
+<area shape="rect" id="node47" href="$tal__constants_8h.html" title="This file contains constants used througthout the TAL. " alt="" coords="1041,304,1151,331"/>
+<area shape="rect" id="node49" href="$ieee__const_8h.html" title="This header holds all IEEE 802.15.4&#45;2006 constants and attribute identifiers. " alt="" coords="1176,304,1272,331"/>
+<area shape="rect" id="node51" href="$pal__config_8h.html" title="PAL configuration for ATmega1281. " alt="" coords="736,304,827,331"/>
+</map>

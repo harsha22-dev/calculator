@@ -1,0 +1,5 @@
+<map id="at86rf231_switch_pll_on" name="at86rf231_switch_pll_on">
+<area shape="rect" id="node3" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="216,5,331,32"/>
+<area shape="rect" id="node5" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="382,31,501,57"/>
+<area shape="rect" id="node8" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="213,107,333,133"/>
+</map>

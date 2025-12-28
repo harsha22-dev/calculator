@@ -1,0 +1,57 @@
+gpio.h 
+
+Line 449 -455:
+
+/*#if __GNUC__
+__attribute__((__always_inline__))
+#endif
+extern __inline__ void gpio_local_set_gpio_open_drain_pin(unsigned int pin)
+{
+  AVR32_GPIO_LOCAL.port[pin >> 5].oderc = 1 << (pin & 0x1F);
+}*/
+
+pm.h
+
+Line 94 - 99:
+
+/*#if __GNUC__
+__attribute__((__always_inline__))
+#endif
+extern  unsigned int pm_get_reset_cause(volatile avr32_pm_t *pm)
+{
+  return pm->rcause;
+}*/
+
+Selbiges für die usart.h 
+
+Error	16	multiple definition of `usart_iso7816_enable_receiver'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	488	1	WEPO41105A00
+Error	17	multiple definition of `usart_iso7816_enable_transmitter'	C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	502	1	WEPO41105A00
+Error	31	multiple definition of `usart_lin_abort'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	850	1	WEPO41105A00
+Error	20	multiple definition of `usart_lin_enable_checksum'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	557	1	WEPO41105A00
+Error	25	multiple definition of `usart_lin_enable_frameslot'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	636	1	WEPO41105A00
+Error	19	multiple definition of `usart_lin_enable_parity'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	543	1	WEPO41105A00
+Error	22	multiple definition of `usart_lin_get_data_length'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	587	1	WEPO41105A00
+Error	15	multiple definition of `usart_lin_get_error'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	460	1	WEPO41105A00
+Error	26	multiple definition of `usart_lin_get_id_char'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	651	1	WEPO41105A00
+Error	21	multiple definition of `usart_lin_set_checksum'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	572	1	WEPO41105A00
+Error	23	multiple definition of `usart_lin_set_data_length_lin1x'	C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	607	1	WEPO41105A00
+Error	24	multiple definition of `usart_lin_set_data_length_lin2x'	C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	620	1	WEPO41105A00
+Error	27	multiple definition of `usart_lin_set_id_char'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	664	1	WEPO41105A00
+Error	18	multiple definition of `usart_lin_set_node_action'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	529	1	WEPO41105A00
+Error	32	multiple definition of `usart_lin_transfer_completed'		C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	864	1	WEPO41105A00
+Error	14	multiple definition of `usart_overrun_error'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	442	1	WEPO41105A00
+Error	12	multiple definition of `usart_parity_error'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	414	1	WEPO41105A00
+Error	11	multiple definition of `usart_reset_status'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	400	1	WEPO41105A00
+Error	30	multiple definition of `usart_test_hit'				C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	797	1	WEPO41105A00
+Error	29	multiple definition of `usart_tx_empty'				C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	783	1	WEPO41105A00
+Error	28	multiple definition of `usart_tx_ready'				C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00\Debug/../AVR32_LIBS/DRIVERS/USART/usart.h	735	1	WEPO41105A00
+
+Danach -> Warnungen : 
+
+Warning	3	implicit declaration of function 'usart_bw_write_char'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00_working\AVR32_LIBS\DRIVERS\USART\usart.c	790	1	WEPO41105A00
+Warning	1	implicit declaration of function 'usart_iso7816_enable_receiver'	C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00_working\AVR32_LIBS\DRIVERS\USART\usart.c	599	1	WEPO41105A00
+Warning	5	implicit declaration of function 'usart_test_hit'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00_working\AVR32_LIBS\DRIVERS\USART\usart.c	841	1	WEPO41105A00
+Warning	2	implicit declaration of function 'usart_tx_empty'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00_working\AVR32_LIBS\DRIVERS\USART\usart.c	760	1	WEPO41105A00
+Warning	4	implicit declaration of function 'usart_tx_ready'			C:\Users\pavt\Diete_Lokal\Firmware\working_proj\WEPO41105Axx_Tischgeraet\WEPO41105A00_working\AVR32_LIBS\DRIVERS\USART\usart.c	798	1	WEPO41105A00
+
+==> Keine dieser Funktionen wird in der Applikation verwendet !!!

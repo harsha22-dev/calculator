@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$WEPO41104A00_8h.html" title="inc/WEPO41104A00.h" alt="" coords="455,80,608,107"/>
+<area shape="rect" id="node19" href="$eeprom__abbild_8h.html" title="EEPROM data structure and EEPROM I/O&#45;functions." alt="" coords="22,304,140,331"/>
+<area shape="rect" id="node23" href="$SPIKE__config_8h.html" title="SPIKE_config.h" alt="" coords="480,379,593,405"/>
+<area shape="rect" id="node25" href="$SX8723c_8h.html" title="Semtech SX8723c Service." alt="" coords="255,229,338,256"/>
+<area shape="rect" id="node36" href="$ds620_8h.html" title="ds620.h" alt="" coords="1500,229,1568,256"/>
+<area shape="rect" id="node39" href="$at86_8h.html" title="This file implements the API for the AT86RF231 radio transceiver." alt="" coords="781,229,840,256"/>
+<area shape="rect" id="node58" href="$pm__config__protocol_8h.html" title="pm_config_protocol.h" alt="" coords="1156,155,1301,181"/>
+<area shape="rect" id="node69" href="$conf__LED_8h.html" title="conf_LED.h" alt="" coords="1592,229,1681,256"/>
+<area shape="rect" id="node29" href="$sw__twi_8h.html" title="Software TWI for parallel read/write to I²C devices." alt="" coords="273,304,345,331"/>
+<area shape="rect" id="node32" href="$conf__sw__twi_8h.html" title="Software TWI for parallel read/write to I²C devices." alt="" coords="1271,379,1373,405"/>
+<area shape="rect" id="node45" href="$at86rf231_8h.html" title="File contains register and command defines specific for AT86RF231." alt="" coords="1186,304,1272,331"/>
+<area shape="rect" id="node47" href="$tal__constants_8h.html" title="This file contains constants used througthout the TAL." alt="" coords="879,304,989,331"/>
+<area shape="rect" id="node49" href="$ieee__const_8h.html" title="This header holds all IEEE 802.15.4&#45;2006 constants and attribute identifiers." alt="" coords="1014,304,1110,331"/>
+<area shape="rect" id="node51" href="$pal__config_8h.html" title="PAL configuration for ATmega1281." alt="" coords="574,304,665,331"/>
+</map>

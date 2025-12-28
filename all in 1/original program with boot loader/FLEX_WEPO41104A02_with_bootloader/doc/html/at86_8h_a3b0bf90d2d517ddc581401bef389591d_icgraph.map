@@ -1,0 +1,18 @@
+<map id="pal_trx_reg_read" name="pal_trx_reg_read">
+<area shape="rect" id="node3" href="$at86_8h.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver. " alt="" coords="847,193,945,220"/>
+<area shape="rect" id="node9" href="$at86_8h.html#af0090e612a1bfa60ffbb2fbf58f25895" title="Switch transceiver pll on and wait until it is locked. " alt="" coords="364,624,524,650"/>
+<area shape="rect" id="node22" href="$at86_8h.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt. " alt="" coords="357,66,531,93"/>
+<area shape="rect" id="node24" href="$at86_8h.html#a1c1fedf9aed4fb4c3de561cfe89152d1" title="Transceiver interrupt handler. " alt="" coords="625,92,753,118"/>
+<area shape="rect" id="node27" href="$pal__trx__access_8c.html#ab06627709265af4e38e0eba63c6b59a9" title="SPI transfer ISR. " alt="" coords="175,244,289,270"/>
+<area shape="rect" id="node43" href="$pal__trx__access_8c.html#abed0355d678d59c149f001310969044a" title="Subregister write. " alt="" coords="174,421,290,448"/>
+<area shape="rect" id="node5" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="1047,308,1110,334"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="1195,390,1245,417"/>
+<area shape="rect" id="node11" href="$at86_8h.html#a70a4bd7b72126a48c196271354e6fff3" title="Set Transceiver State = RX_AACK_ON send ACK&#45;Frame automatically if requested. " alt="" coords="598,573,781,600"/>
+<area shape="rect" id="node15" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="1011,472,1146,498"/>
+<area shape="rect" id="node18" href="$at86_8h.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame. " alt="" coords="611,522,767,549"/>
+<area shape="rect" id="node13" href="$at86_8h.html#a0ee158241f405a92e7fa7b507c707f93" title="Send data request and receive data with ACK and retry. " alt="" coords="830,522,962,549"/>
+<area shape="rect" id="node32" href="$at86_8h.html#a0da266448f852413ba43e88e4ea99a84" title="Apply channel to transceiver. " alt="" coords="356,472,532,498"/>
+<area shape="rect" id="node35" href="$at86_8h.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver. " alt="" coords="339,320,549,346"/>
+<area shape="rect" id="node38" href="$at86_8h.html#a4c8415e4daa3241fe710fed12dcc503d" title="Apply tx power to transceiver. " alt="" coords="359,370,529,397"/>
+<area shape="rect" id="node50" href="$at86_8h.html#a530e39a4d7d19f34689fea5113a88ddf" title="Filter tuning and PLL calibration handling Although receiver and transmitter are very robust against ..." alt="" coords="353,573,535,600"/>
+</map>

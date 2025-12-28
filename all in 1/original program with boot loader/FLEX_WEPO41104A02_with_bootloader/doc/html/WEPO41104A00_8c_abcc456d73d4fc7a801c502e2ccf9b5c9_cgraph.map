@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#a0da266448f852413ba43e88e4ea99a84" title="Apply channel to transceiver." alt="" coords="388,641,564,668"/>
+<area shape="rect" id="node5" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver" alt="" coords="840,312,955,339"/>
+<area shape="rect" id="node12" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver" alt="" coords="837,464,957,491"/>
+<area shape="rect" id="node15" href="$at86rf231_8c.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver." alt="" coords="371,432,581,459"/>
+<area shape="rect" id="node20" href="$at86rf231_8c.html#a4c8415e4daa3241fe710fed12dcc503d" title="Apply tx power to transceiver." alt="" coords="391,540,561,567"/>
+<area shape="rect" id="node25" href="$at86rf231_8c.html#a0ee158241f405a92e7fa7b507c707f93" title="Send data request and receive data with ACK and retry." alt="" coords="190,261,322,288"/>
+<area shape="rect" id="node29" href="$at86rf231_8c.html#ab8a9e9b9256831427ca7746ec45e6345" title="Switch transceiver pll on and wait until it is locked." alt="" coords="629,109,789,136"/>
+<area shape="rect" id="node44" href="$WEPO41104A00_8c.html#ab54b3979f23dd3934639a2d16ce0762c" title="liest einen Temperaturwert vom DS620" alt="" coords="397,869,555,896"/>
+<area shape="rect" id="node54" href="$WEPO41104A00_8c.html#a8ad273e354207ac32df636c718de5f20" title="Konfiguration in das int. EEPROM schreiben." alt="" coords="407,920,545,947"/>
+<area shape="rect" id="node56" href="$WEPO41104A00_8c.html#a46ba7eb8be25e82aafb8ba6bef56ec08" title="Führt einen Offsetabgleich auf den ZMDs aus." alt="" coords="205,920,307,947"/>
+<area shape="rect" id="node76" href="$WEPO41104A00_8c.html#a8ea54d2c5521603b34fe4203c3b399f0" title="Routine zum Eintritt in den Standby&#45;Modus." alt="" coords="217,768,295,795"/>
+<area shape="rect" id="node86" href="$WEPO41104A00_8c.html#a7b8ab79df77b57475a5494f5f81c3bd9" title="Initialisiert den Timer1 auf Interrupt im Intervall der Samplerate." alt="" coords="219,971,293,997"/>
+<area shape="rect" id="node9" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver" alt="" coords="651,515,767,541"/>
+<area shape="rect" id="node7" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver" alt="" coords="1006,312,1125,339"/>
+<area shape="rect" id="node27" href="$at86rf231_8c.html#a70a4bd7b72126a48c196271354e6fff3" title="Set Transceiver State = RX_AACK_ON send ACK&#45;Frame automatically if requested." alt="" coords="385,160,567,187"/>
+<area shape="rect" id="node35" href="$at86rf231_8c.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame." alt="" coords="398,261,554,288"/>
+<area shape="rect" id="node40" href="$at86_8h.html#a89baa48c35c21c98b853f56ad42b9da6" title="write frame to transceiver" alt="" coords="642,312,777,339"/>
+<area shape="rect" id="node46" href="$WEPO41104A00_8c.html#a3967faede3a7c701ce5b43752435a7dd" title="liest ein Byte von der TWI" alt="" coords="653,971,765,997"/>
+<area shape="rect" id="node48" href="$WEPO41104A00_8c.html#aeb28edfed306ba8eceff10e8636852f0" title="sendet ein Byte über die TWI" alt="" coords="652,819,767,845"/>
+<area shape="rect" id="node50" href="$WEPO41104A00_8c.html#aff3cc7b39da66e7aba8c3027edf2f6f0" title="Erzeugt die I²C&#45;Startbedingung und sendet die Chipadresse." alt="" coords="653,869,766,896"/>
+<area shape="rect" id="node52" href="$WEPO41104A00_8c.html#a7b0b36fec2acaa9f4592b3390c1f6976" title="Erzeugt eine Stop&#45;Bedingung auf der TWI." alt="" coords="653,920,765,947"/>
+<area shape="rect" id="node59" href="$WEPO41104A00_8c.html#a9987ceb22ea0d4372b009b13b721c69a" title="ZMDs initialisieren und Startkonfiguration laden." alt="" coords="441,1047,511,1073"/>
+<area shape="rect" id="node72" href="$WEPO41104A00_8c.html#a983cc1d71fd60907530c7774e187feb6" title="ZMDs auslesen (Messwerte)" alt="" coords="437,1097,515,1124"/>
+<area shape="rect" id="node61" href="$WEPO41104A00_8c.html#a9c6f0955e60ea448b9c96115faf3ea00" title="Startbedingung auf der Software&#45;I²C erzeugen." alt="" coords="858,1167,937,1193"/>
+<area shape="rect" id="node63" href="$WEPO41104A00_8c.html#a2f823554e837240d7deccce3ebbde594" title="Stopbedingung auf der Software&#45;I²C erzeugen." alt="" coords="859,1047,936,1073"/>
+<area shape="rect" id="node65" href="$WEPO41104A00_8c.html#aed8acdc5def92f356d226f187364519a" title="Ein Byte auf die Software&#45;I²C schreiben." alt="" coords="857,1104,938,1131"/>
+<area shape="rect" id="node67" href="$WEPO41104A00_8c.html#ad82eaf842016e8a5dc4cd276286d965b" title="Ein ZMD&#45;Kommando auf die Software&#45;I²C schreiben." alt="" coords="670,1123,749,1149"/>
+<area shape="rect" id="node78" href="$WEPO41104A00_8c.html#a7e0a9a05879cfb77b9cd5abc9bd545fa" title="versetzt den DS620 in den Sleep&#45;Modus" alt="" coords="429,819,523,845"/>
+<area shape="rect" id="node83" href="$at86rf231_8c.html#ad4bc4925ecdde78387866127fb66d3b3" title="Set Transceiver mode = sleep." alt="" coords="653,768,766,795"/>
+</map>

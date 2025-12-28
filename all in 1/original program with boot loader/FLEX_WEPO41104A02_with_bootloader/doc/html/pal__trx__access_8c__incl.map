@@ -1,0 +1,7 @@
+<map id="pal_trx_access.c" name="pal_trx_access.c">
+<area shape="rect" id="node5" href="$at86_8h.html" title="This file implements the API for the AT86RF231 radio transceiver. " alt="" coords="553,80,631,107"/>
+<area shape="rect" id="node16" href="$pal__config_8h.html" title="PAL configuration for ATmega1281. " alt="" coords="560,155,651,181"/>
+<area shape="rect" id="node10" href="$at86rf231_8h.html" title="File contains register and command defines specific for AT86RF231. " alt="" coords="449,155,535,181"/>
+<area shape="rect" id="node12" href="$tal__constants_8h.html" title="This file contains constants used througthout the TAL. " alt="" coords="94,155,204,181"/>
+<area shape="rect" id="node14" href="$ieee__const_8h.html" title="This header holds all IEEE 802.15.4&#45;2006 constants and attribute identifiers. " alt="" coords="229,155,325,181"/>
+</map>

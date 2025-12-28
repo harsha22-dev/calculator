@@ -1,0 +1,5 @@
+<map id="SX8723c_send_request" name="SX8723c_send_request">
+<area shape="rect" id="node3" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="589,5,640,32"/>
+<area shape="rect" id="node5" href="$group__group__SX8723c__service.html#ga9a15a2e146701d2ee73e202f35bfdcf5" title="This function compensate an offset automatically. " alt="" coords="214,31,357,57"/>
+<area shape="rect" id="node7" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="406,31,541,57"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#ad4bc4925ecdde78387866127fb66d3b3" title="Set Transceiver mode = sleep." alt="" coords="134,31,247,57"/>
+<area shape="rect" id="node7" href="$ds620_8c.html#a7e0a9a05879cfb77b9cd5abc9bd545fa" title="versetzt den DS620 in den Sleep&#45;Modus" alt="" coords="143,107,238,133"/>
+<area shape="rect" id="node15" href="$group__group__SX8723c__service.html#ga0d15afac6ea5710926527bcfd9cfb4c8" title="SX8723c_sleep" alt="" coords="135,183,246,209"/>
+<area shape="rect" id="node5" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver" alt="" coords="333,5,453,32"/>
+<area shape="rect" id="node9" href="$ds620_8c.html#aeb28edfed306ba8eceff10e8636852f0" title="sendet ein Byte über die TWI" alt="" coords="336,56,451,83"/>
+<area shape="rect" id="node11" href="$ds620_8c.html#aff3cc7b39da66e7aba8c3027edf2f6f0" title="Erzeugt die I²C&#45;Startbedingung und sendet die Chipadresse." alt="" coords="337,107,450,133"/>
+<area shape="rect" id="node13" href="$ds620_8c.html#a7b0b36fec2acaa9f4592b3390c1f6976" title="Erzeugt eine Stop&#45;Bedingung auf der TWI." alt="" coords="337,157,449,184"/>
+<area shape="rect" id="node17" href="$sw__twi_8h.html#a97a103cc9aeea7d86299b5c97b90751a" title="Brief description of this function." alt="" coords="297,208,490,235"/>
+</map>

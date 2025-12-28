@@ -1,0 +1,9 @@
+<map id="ds620_twi_start" name="ds620_twi_start">
+<area shape="rect" id="node3" href="$group__group__sd620.html#ga3f2e6a267be5098a09273824a5887d74" title="Get the temperature value of the sensor. " alt="" coords="169,34,327,60"/>
+<area shape="rect" id="node10" href="$group__group__sd620.html#gaa8ab08bf72368a272b8e137b37292ad9" title="Initializes the DS620. " alt="" coords="207,84,289,111"/>
+<area shape="rect" id="node15" href="$group__group__sd620.html#gae0364f1193b1f46d9278218fff1084ab" title="Starts a conversation or wake up from sleep. " alt="" coords="376,135,515,162"/>
+<area shape="rect" id="node18" href="$group__group__sd620.html#gaa88f192c1d63ea1f08da751f75ba666a" title="Set DS620 to sleep. " alt="" coords="179,186,317,212"/>
+<area shape="rect" id="node5" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="563,84,613,111"/>
+<area shape="rect" id="node7" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="378,34,513,60"/>
+<area shape="rect" id="node12" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="414,84,477,111"/>
+</map>

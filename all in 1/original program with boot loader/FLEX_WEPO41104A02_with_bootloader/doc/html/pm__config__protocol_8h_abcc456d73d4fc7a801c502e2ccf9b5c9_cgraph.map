@@ -1,0 +1,23 @@
+<map id="pm_config_protocol" name="pm_config_protocol">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#a0da266448f852413ba43e88e4ea99a84" title="Apply channel to transceiver. " alt="" coords="401,372,577,399"/>
+<area shape="rect" id="node5" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="875,372,989,399"/>
+<area shape="rect" id="node12" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="872,169,992,196"/>
+<area shape="rect" id="node15" href="$at86rf231_8c.html#a0ee158241f405a92e7fa7b507c707f93" title="Send data request and receive data with ACK and retry. " alt="" coords="203,220,335,247"/>
+<area shape="rect" id="node19" href="$at86rf231_8c.html#ab8a9e9b9256831427ca7746ec45e6345" title="Switch transceiver pll on and wait until it is locked. " alt="" coords="647,119,807,145"/>
+<area shape="rect" id="node34" href="$group__group__sd620.html#ga3f2e6a267be5098a09273824a5887d74" title="Get the temperature value of the sensor. " alt="" coords="190,524,349,551"/>
+<area shape="rect" id="node44" href="$eeprom__abbild_8c.html#a58027566fc3bbb855ac7f4730c3c542a" title="Laod configuration from internal SRAM and write it to EEPROM. " alt="" coords="200,575,339,601"/>
+<area shape="rect" id="node48" href="$group__group__SX8723c__service.html#ga9a15a2e146701d2ee73e202f35bfdcf5" title="This function compensate an offset automatically. " alt="" coords="198,727,341,753"/>
+<area shape="rect" id="node9" href="$at86_8h.html#abed0355d678d59c149f001310969044a" title="write specified bit to transceiver " alt="" coords="669,271,785,297"/>
+<area shape="rect" id="node7" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="1041,271,1159,297"/>
+<area shape="rect" id="node17" href="$at86rf231_8c.html#a70a4bd7b72126a48c196271354e6fff3" title="Set Transceiver State = RX_AACK_ON send ACK&#45;Frame automatically if requested. " alt="" coords="398,169,581,196"/>
+<area shape="rect" id="node25" href="$at86rf231_8c.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame. " alt="" coords="411,220,567,247"/>
+<area shape="rect" id="node30" href="$at86_8h.html#a89baa48c35c21c98b853f56ad42b9da6" title="write frame to transceiver " alt="" coords="659,220,794,247"/>
+<area shape="rect" id="node36" href="$group__group__sd620.html#gaff3cc7b39da66e7aba8c3027edf2f6f0" title="Send an TWI Start condition. " alt="" coords="433,549,546,576"/>
+<area shape="rect" id="node38" href="$group__group__sd620.html#gaeb28edfed306ba8eceff10e8636852f0" title="Send one byte. " alt="" coords="432,600,547,627"/>
+<area shape="rect" id="node40" href="$group__group__sd620.html#ga5ee725e7e6d57c145a1d11e69380ef20" title="Read one byte. " alt="" coords="433,651,545,677"/>
+<area shape="rect" id="node42" href="$group__group__sd620.html#ga7b0b36fec2acaa9f4592b3390c1f6976" title="Send a stop condition. " alt="" coords="433,499,545,525"/>
+<area shape="rect" id="node50" href="$group__group__SX8723c__service__sw__twi.html#ga97a103cc9aeea7d86299b5c97b90751a" title="TWI command to write a byte in a single register of the SX8723c. " alt="" coords="655,774,798,815"/>
+<area shape="rect" id="node52" href="$group__group__SX8723c__service.html#ga0a84d3b06d6266f36c42a8733fb06db8" title="This function starts an conversation on the SX8723c. " alt="" coords="410,803,569,829"/>
+<area shape="rect" id="node55" href="$group__group__SX8723c__service.html#ga3e3069b7bc89d4641dc095f22e24d136" title="This function returns the actually measurement value. " alt="" coords="422,701,557,728"/>
+<area shape="rect" id="node57" href="$group__group__SX8723c__service__sw__twi.html#gafe1b60a74e56c732d4a85b536811b3d1" title="TWI command to readout the 16 bit data value of the SX8723c. " alt="" coords="630,701,823,728"/>
+</map>

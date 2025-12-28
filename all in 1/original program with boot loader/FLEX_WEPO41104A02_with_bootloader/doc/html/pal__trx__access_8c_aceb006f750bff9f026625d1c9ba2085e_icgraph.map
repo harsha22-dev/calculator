@@ -1,0 +1,5 @@
+<map id="pal_trx_irq_init" name="pal_trx_irq_init">
+<area shape="rect" id="node3" href="$at86_8h.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver. " alt="" coords="160,5,259,32"/>
+<area shape="rect" id="node5" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="307,5,370,32"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="419,5,469,32"/>
+</map>

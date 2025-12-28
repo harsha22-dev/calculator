@@ -1,0 +1,15 @@
+<map id="pal_trx_bit_read" name="pal_trx_bit_read">
+<area shape="rect" id="node3" href="$at86_8h.html#a0da266448f852413ba43e88e4ea99a84" title="Apply channel to transceiver. " alt="" coords="651,157,827,184"/>
+<area shape="rect" id="node5" href="$pm__config__protocol_8c.html#abcc456d73d4fc7a801c502e2ccf9b5c9" title="pm_config_protocol" alt="" coords="875,157,1010,184"/>
+<area shape="rect" id="node9" href="$at86_8h.html#af609fd7593c4cc52caa234572c3a0f30" title="Apply channel page configuartion to transceiver. " alt="" coords="392,436,603,463"/>
+<area shape="rect" id="node11" href="$at86_8h.html#a95cd6b5d19a0129a7b6ccb6ce985a790" title="Init AT86RF231 Transceiver. " alt="" coords="689,335,788,361"/>
+<area shape="rect" id="node16" href="$at86_8h.html#a4c8415e4daa3241fe710fed12dcc503d" title="Apply tx power to transceiver. " alt="" coords="171,259,341,285"/>
+<area shape="rect" id="node19" href="$at86_8h.html#af0090e612a1bfa60ffbb2fbf58f25895" title="Switch transceiver pll on and wait until it is locked. " alt="" coords="176,81,336,108"/>
+<area shape="rect" id="node26" href="$at86_8h.html#a7e0927379d6138f1c424a55b84d9955c" title="Sends frame. " alt="" coords="419,5,575,32"/>
+<area shape="rect" id="node31" href="$at86_8h.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt. " alt="" coords="169,411,343,437"/>
+<area shape="rect" id="node33" href="$at86_8h.html#a1c1fedf9aed4fb4c3de561cfe89152d1" title="Transceiver interrupt handler. " alt="" coords="433,360,561,387"/>
+<area shape="rect" id="node7" href="$WEPO41104A02_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main function. " alt="" coords="1059,183,1109,209"/>
+<area shape="rect" id="node13" href="$WEPO41104A02_8c.html#a4ae6edab9a918f82c63b98920fa10f1c" title="Initialization of the controller and all sensors. " alt="" coords="911,284,974,311"/>
+<area shape="rect" id="node21" href="$at86_8h.html#a70a4bd7b72126a48c196271354e6fff3" title="Set Transceiver State = RX_AACK_ON send ACK&#45;Frame automatically if requested. " alt="" coords="406,56,589,83"/>
+<area shape="rect" id="node23" href="$at86_8h.html#a0ee158241f405a92e7fa7b507c707f93" title="Send data request and receive data with ACK and retry. " alt="" coords="673,56,805,83"/>
+</map>

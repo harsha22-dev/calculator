@@ -1,0 +1,7 @@
+<map id="trx_irq_handler_cb" name="trx_irq_handler_cb">
+<area shape="rect" id="node3" href="$at86rf231_8c.html#a3a3b1f218e1475f01a95710d06423393" title="Handle received frame interrupt. " alt="" coords="182,78,357,105"/>
+<area shape="rect" id="node5" href="$at86_8h.html#a3b0bf90d2d517ddc581401bef389591d" title="read register from transceiver " alt="" coords="587,27,706,54"/>
+<area shape="rect" id="node9" href="$at86_8h.html#ab06627709265af4e38e0eba63c6b59a9" title="read specified bit from transceiver " alt="" coords="415,27,529,54"/>
+<area shape="rect" id="node12" href="$at86_8h.html#aa3bf62e2394e1a9b52fcd492c28f50dc" title="write register to transceiver " alt="" coords="412,179,532,206"/>
+<area shape="rect" id="node7" href="$at86_8h.html#a567fce74d2ddb73921f679c1a907cd2f" title="Upload frame from transceiver. " alt="" coords="406,78,538,105"/>
+</map>
